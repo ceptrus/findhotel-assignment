@@ -1,0 +1,3 @@
+*
+!/target/find-hotel-api.jar
+!data_dump.csv
